@@ -18,3 +18,6 @@ b) JIT
 c) JDK
 d) JVM
 ans D
+
+
+Total number of Questions :3
